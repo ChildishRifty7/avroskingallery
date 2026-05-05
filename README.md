@@ -7,7 +7,10 @@ A new gallery with skins for Avro Keyboard, the award winning, free Bangla keybo
 
 
 # Skins:
-Avrocraft <img width="280" height="32" alt="avrocraftv1" src="https://github.com/user-attachments/assets/22c8a300-2e78-43dd-902b-e807784c937a" />
+Avrocraft 
+<a href="https://github.com/ChildishRifty7/avroskingallery/releases/download/Skin/Avrocraft.avroskin">
+<img width="280" height="32" alt="avrocraftv1" src="https://github.com/user-attachments/assets/22c8a300-2e78-43dd-902b-e807784c937a" />
+</a>
 
 GTAvroV <img width="340" height="32" alt="GTAvrov1" src="https://github.com/user-attachments/assets/a1d595d3-93b9-42d1-9eb6-4ba549582544" />
 
