@@ -16,4 +16,13 @@ GTAvroV <img width="340" height="32" alt="GTAvrov1" src="https://github.com/user
 
 AvroNite <img width="340" height="32" alt="AvroNitev1" src="https://github.com/user-attachments/assets/96f52cd6-d558-4f03-990c-1acdec3569af" />
 
+# Download Avro Keyboard
+Skins are only usable in Avro Keyboard only. Please download the official version from Omicronlab's website.
+https://www.omicronlab.com/avro-keyboard.html
+
+# Support Me!
+<a href="https://skr.bd/rifty"> 
+<img width="320" height="90" alt="skrbd_card_rifty" src="https://github.com/user-attachments/assets/d07272f5-7afc-40dd-bda3-be31456fefda" /> 
+</a>
+
 
