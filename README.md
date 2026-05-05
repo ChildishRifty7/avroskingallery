@@ -22,7 +22,7 @@ https://www.omicronlab.com/avro-keyboard.html
 
 # Support Me!
 <a href="https://skr.bd/rifty"> 
-<img width="320" height="90" alt="skrbd_card_rifty" src="https://github.com/user-attachments/assets/d07272f5-7afc-40dd-bda3-be31456fefda" /> 
+<img width="160" height="45" alt="skrbd_card_rifty" src="https://github.com/user-attachments/assets/d07272f5-7afc-40dd-bda3-be31456fefda" /> 
 </a>
 
 
