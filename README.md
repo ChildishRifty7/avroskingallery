@@ -1,5 +1,5 @@
 # Avro Skin Gallery (অভ্র স্কিন গ্যালারি)
-<img width="1920" height="960" alt="avroskingallery_cover_extended" src="https://github.com/user-attachments/assets/188cbaaa-a7ca-47a6-891f-e11bde798c09" />
+<img width="1920" height="1080" alt="avroskingallery_cover_extended" src="https://github.com/user-attachments/assets/ffb32324-8198-4c4e-a08a-d5f7d6b499db" />
 
 A new gallery with skins for Avro Keyboard, the award winning, free Bangla keyboard. This repo was created by Rifty.
 
